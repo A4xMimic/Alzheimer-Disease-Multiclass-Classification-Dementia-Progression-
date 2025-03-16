@@ -28,8 +28,8 @@ The models are evaluated on two datasets:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Alzheimer-Detection.git
-   cd Alzheimer-Detection
+   git clone https://github.com/A4xMimic/Alzheimer-Disease-Multiclass-Classification-Dementia-Progression-.git
+   cd Alzheimer-Disease-Multiclass-Classification-Dementia-Progression-
    ```
 2. Install dependencies:
    ```sh
