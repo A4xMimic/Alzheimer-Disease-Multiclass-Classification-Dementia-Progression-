@@ -73,14 +73,11 @@ python evaluate.py --model vgg16 --dataset adni
 ```
 
 ## Contributors
-- **Mayank Pratap Singh** ([GitHub](https://github.com/mayankprataps))
+- **Mayank Pratap Singh** ([GitHub](https://github.com/A4xMimic))
 - Aryashrestha Sagar
 - Maitri Sharma
 - Devanjali Relan
 - Kiran Khattar
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 - ADNI for providing the dataset.
